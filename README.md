@@ -1,10 +1,11 @@
 # hiljusti's codewars-solutions
 
-Code wars, code golf, general hacking and mayhem.
+Solutions for problems on codewars.com. May contain code golf, experimental hacking, and general mayhem.
 
-** !!! Don't cheat yourself !!! ** I trust you to make good decisions.
+May also contain some hidden gems here and there?
 
-May contain some hidden gems here and there, but the learning is usually in the doing.
+**Don't cheat yourself!**  I trust you to make good decisions.  The learning is in the doing!
+
+# me
 
 Here I am: https://www.codewars.com/users/hiljusti
-
