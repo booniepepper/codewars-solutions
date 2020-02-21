@@ -1,0 +1,1982 @@
+{
+  "totalPages": 2,
+  "totalItems": 280,
+  "data": [
+    {
+      "id": "5962ddfc2f9addd52200001d",
+      "name": "Hexadecimal Keys",
+      "slug": "hexadecimal-keys",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2020-02-16T07:51:37.877Z"
+    },
+    {
+      "id": "5a2be17aee1aaefe2a000151",
+      "name": "Array plus array",
+      "slug": "array-plus-array",
+      "completedLanguages": [
+        "python",
+        "c",
+        "cfml",
+        "cpp",
+        "crystal",
+        "csharp",
+        "haskell",
+        "java",
+        "javascript",
+        "prolog",
+        "ruby"
+      ],
+      "completedAt": "2020-02-16T06:25:34.654Z"
+    },
+    {
+      "id": "59b7b43b4f98a81b2d00000a",
+      "name": "Lazy Init  ",
+      "slug": "lazy-init",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2020-02-16T05:59:50.981Z"
+    },
+    {
+      "id": "56efab15740d301ab40002ee",
+      "name": "Reducing by steps",
+      "slug": "reducing-by-steps",
+      "completedLanguages": [
+        "javascript",
+        "rust",
+        "c",
+        "clojure",
+        "python"
+      ],
+      "completedAt": "2020-02-14T06:31:37.417Z"
+    },
+    {
+      "id": "55f9b48403f6b87a7c0000bd",
+      "name": "Beginner Series #1 School Paperwork",
+      "slug": "beginner-series-number-1-school-paperwork",
+      "completedLanguages": [
+        "cfml"
+      ],
+      "completedAt": "2020-02-14T06:08:09.767Z"
+    },
+    {
+      "id": "5208f99aee097e6552000148",
+      "name": "Break camelCase",
+      "slug": "break-camelcase",
+      "completedLanguages": [
+        "javascript",
+        "haskell"
+      ],
+      "completedAt": "2020-02-13T06:45:49.984Z"
+    },
+    {
+      "id": "55cbc3586671f6aa070000fb",
+      "name": "Grasshopper - Check for factor",
+      "slug": "grasshopper-check-for-factor",
+      "completedLanguages": [
+        "prolog",
+        "haskell"
+      ],
+      "completedAt": "2020-02-09T01:59:46.348Z"
+    },
+    {
+      "id": "515f51d438015969f7000013",
+      "name": "Pyramid Array",
+      "slug": "pyramid-array",
+      "completedLanguages": [
+        "factor",
+        "javascript",
+        "python",
+        "clojure",
+        "coffeescript",
+        "cpp",
+        "crystal",
+        "csharp",
+        "dart",
+        "elixir",
+        "elm",
+        "go",
+        "groovy",
+        "haskell",
+        "julia",
+        "lua",
+        "php",
+        "racket",
+        "reason",
+        "ruby",
+        "scala",
+        "swift",
+        "typescript"
+      ],
+      "completedAt": "2020-01-29T23:11:52.739Z"
+    },
+    {
+      "id": "556deca17c58da83c00002db",
+      "name": "Tribonacci Sequence",
+      "slug": "tribonacci-sequence",
+      "completedLanguages": [
+        "c",
+        "javascript",
+        "haskell",
+        "racket",
+        "clojure",
+        "cpp",
+        "groovy",
+        "julia",
+        "factor",
+        "coffeescript",
+        "crystal",
+        "csharp",
+        "dart",
+        "rust",
+        "elixir",
+        "elm",
+        "fsharp",
+        "go",
+        "java",
+        "kotlin",
+        "ocaml",
+        "php",
+        "python",
+        "r",
+        "reason",
+        "ruby",
+        "scala",
+        "swift",
+        "typescript"
+      ],
+      "completedAt": "2020-01-26T09:52:46.191Z"
+    },
+    {
+      "id": "51e0007c1f9378fa810002a9",
+      "name": "Make the Deadfish swim",
+      "slug": "make-the-deadfish-swim",
+      "completedLanguages": [
+        "javascript",
+        "rust",
+        "ruby",
+        "python",
+        "julia",
+        "haskell",
+        "groovy",
+        "go",
+        "c"
+      ],
+      "completedAt": "2020-01-26T07:11:50.597Z"
+    },
+    {
+      "id": "5583d268479559400d000064",
+      "name": "Binary to Text (ASCII) Conversion",
+      "slug": "binary-to-text-ascii-conversion",
+      "completedLanguages": [
+        "javascript",
+        "java",
+        "typescript",
+        "scala",
+        "ruby",
+        "python",
+        "julia",
+        "groovy",
+        "c"
+      ],
+      "completedAt": "2020-01-24T05:43:09.200Z"
+    },
+    {
+      "id": "5d5a7525207a674b71aa25b5",
+      "name": "Row of the odd triangle",
+      "slug": "row-of-the-odd-triangle",
+      "completedLanguages": [
+        "javascript",
+        "python",
+        "haskell",
+        "ruby",
+        "cpp",
+        "java",
+        "c"
+      ],
+      "completedAt": "2020-01-24T03:46:05.955Z"
+    },
+    {
+      "id": "58638bd2210be9a9690001f7",
+      "name": "Array.prototype.size()",
+      "slug": "array-dot-prototype-dot-size",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2020-01-23T05:44:32.993Z"
+    },
+    {
+      "id": "5e23eadb0879110028b96424",
+      "name": "[The Wizard Book Lectures: 1A] Hero's Square Root",
+      "slug": "the-wizard-book-lectures-1a-heros-square-root",
+      "completedLanguages": [
+        "racket",
+        "javascript",
+        "python",
+        "go",
+        "go"
+      ],
+      "completedAt": "2020-01-19T07:14:57.265Z"
+    },
+    {
+      "id": "574b1916a3ebd6e4fa0012e7",
+      "name": "They say that only the name is long enough to attract attention. They also said that only a simple Kata will have someone to solve it. This is a sadly story #1: Are they opposite?",
+      "slug": "they-say-that-only-the-name-is-long-enough-to-attract-attention-they-also-said-that-only-a-simple-kata-will-have-someone-to-solve-it-this-is-a-sadly-story-number-1-are-they-opposite",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2020-01-18T20:13:29.460Z"
+    },
+    {
+      "id": "55edaba99da3a9c84000003b",
+      "name": "Find numbers which are divisible by given number",
+      "slug": "find-numbers-which-are-divisible-by-given-number",
+      "completedLanguages": [
+        "racket",
+        "ruby",
+        "python",
+        "javascript",
+        "java",
+        "haskell",
+        "cpp"
+      ],
+      "completedAt": "2020-01-13T07:14:53.060Z"
+    },
+    {
+      "id": "54d1c59aba326343c80000e7",
+      "name": "Incorrect division method",
+      "slug": "incorrect-division-method",
+      "completedLanguages": [
+        "ruby",
+        "c",
+        "prolog",
+        "python",
+        "racket"
+      ],
+      "completedAt": "2020-01-13T07:07:56.485Z"
+    },
+    {
+      "id": "53ee5429ba190077850011d4",
+      "name": "You Can't Code Under Pressure #1",
+      "slug": "you-cant-code-under-pressure-number-1",
+      "completedLanguages": [
+        "prolog"
+      ],
+      "completedAt": "2020-01-11T09:28:51.356Z"
+    },
+    {
+      "id": "545afd0761aa4c3055001386",
+      "name": "Enumerable Magic #25 - Take the First N Elements",
+      "slug": "enumerable-magic-number-25-take-the-first-n-elements",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2020-01-11T09:06:14.597Z"
+    },
+    {
+      "id": "55cb632c1a5d7b3ad0000145",
+      "name": "Keep up the hoop",
+      "slug": "keep-up-the-hoop",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2020-01-11T09:04:47.437Z"
+    },
+    {
+      "id": "5aba780a6a176b029800041c",
+      "name": "Maximum Multiple",
+      "slug": "maximum-multiple",
+      "completedLanguages": [
+        "c"
+      ],
+      "completedAt": "2020-01-11T08:26:46.143Z"
+    },
+    {
+      "id": "5b0d67c1cb35dfa10b0022c7",
+      "name": "The wheat/rice and chessboard problem",
+      "slug": "the-wheat-slash-rice-and-chessboard-problem",
+      "completedLanguages": [
+        "c"
+      ],
+      "completedAt": "2020-01-11T08:18:52.719Z"
+    },
+    {
+      "id": "57a049e253ba33ac5e000212",
+      "name": "Factorial",
+      "slug": "factorial-1",
+      "completedLanguages": [
+        "c"
+      ],
+      "completedAt": "2020-01-11T07:43:42.650Z"
+    },
+    {
+      "id": "56efc695740d30f963000557",
+      "name": "altERnaTIng cAsE <=> ALTerNAtiNG CaSe",
+      "slug": "alternating-case-<-equals->-alternating-case",
+      "completedLanguages": [
+        "c"
+      ],
+      "completedAt": "2020-01-11T07:38:12.836Z"
+    },
+    {
+      "id": "5616868c81a0f281e500005c",
+      "name": "Prize Draw",
+      "slug": "prize-draw",
+      "completedLanguages": [
+        "rust"
+      ],
+      "completedAt": "2020-01-11T06:55:25.961Z"
+    },
+    {
+      "id": "57f24e6a18e9fad8eb000296",
+      "name": "I love you,  a little ,  a lot,  passionately ... not at all",
+      "slug": "i-love-you-a-little-a-lot-passionately-dot-dot-dot-not-at-all",
+      "completedLanguages": [
+        "c"
+      ],
+      "completedAt": "2020-01-09T00:35:02.881Z"
+    },
+    {
+      "id": "59441520102eaa25260000bf",
+      "name": "5 without numbers !!",
+      "slug": "5-without-numbers",
+      "completedLanguages": [
+        "c"
+      ],
+      "completedAt": "2020-01-09T00:23:55.492Z"
+    },
+    {
+      "id": "5545f109004975ea66000086",
+      "name": "Is n divisible by x and y?",
+      "slug": "is-n-divisible-by-x-and-y",
+      "completedLanguages": [
+        "c"
+      ],
+      "completedAt": "2020-01-08T23:57:42.824Z"
+    },
+    {
+      "id": "5259b20d6021e9e14c0010d4",
+      "name": "Reverse words",
+      "slug": "reverse-words",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2020-01-08T23:01:23.535Z"
+    },
+    {
+      "id": "5861d28f124b35723e00005e",
+      "name": "Will you make it?",
+      "slug": "will-you-make-it",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2020-01-08T18:56:04.674Z"
+    },
+    {
+      "id": "55ecd718f46fba02e5000029",
+      "name": "What is between?",
+      "slug": "what-is-between",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2020-01-08T18:54:25.970Z"
+    },
+    {
+      "id": "5ae62fcf252e66d44d00008e",
+      "name": "Expressions Matter ",
+      "slug": "expressions-matter",
+      "completedLanguages": [
+        "javascript",
+        "c"
+      ],
+      "completedAt": "2020-01-08T18:50:59.742Z"
+    },
+    {
+      "id": "55192f4ecd82ff826900089e",
+      "name": "Watermelon",
+      "slug": "watermelon",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2020-01-08T18:45:15.372Z"
+    },
+    {
+      "id": "59d902f627ee004281000160",
+      "name": "Largest Number Arrangement",
+      "slug": "largest-number-arrangement",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2020-01-05T08:45:40.405Z"
+    },
+    {
+      "id": "5970f479e75b6c00ce000043",
+      "name": "How can I throw an error here?",
+      "slug": "how-can-i-throw-an-error-here",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2020-01-05T08:20:45.319Z"
+    },
+    {
+      "id": "56cd44e1aa4ac7879200010b",
+      "name": "Is the string uppercase?",
+      "slug": "is-the-string-uppercase",
+      "completedLanguages": [
+        "forth"
+      ],
+      "completedAt": "2020-01-04T04:32:20.918Z"
+    },
+    {
+      "id": "58e24788e24ddee28e000053",
+      "name": "Simple assembler interpreter",
+      "slug": "simple-assembler-interpreter",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2020-01-03T01:25:49.681Z"
+    },
+    {
+      "id": "563b8a23b554206f49000059",
+      "name": "Dave's gamble.",
+      "slug": "daves-gamble",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2020-01-03T01:11:59.214Z"
+    },
+    {
+      "id": "5d2659626c7aec0022cb8006",
+      "name": "The Baum-Sweet sequence",
+      "slug": "the-baum-sweet-sequence",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2020-01-03T00:58:47.487Z"
+    },
+    {
+      "id": "5b72970db3d977e0f9000030",
+      "name": "Crossed words",
+      "slug": "crossed-words",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2020-01-03T00:35:05.280Z"
+    },
+    {
+      "id": "56311e4fdd811616810000ce",
+      "name": "Method For Counting Total Occurence Of Specific Digits",
+      "slug": "method-for-counting-total-occurence-of-specific-digits",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2020-01-03T00:21:33.301Z"
+    },
+    {
+      "id": "529eef7a9194e0cbc1000255",
+      "name": "Anagram Detection",
+      "slug": "anagram-detection",
+      "completedLanguages": [
+        "haskell"
+      ],
+      "completedAt": "2020-01-03T00:08:01.602Z"
+    },
+    {
+      "id": "565f5825379664a26b00007c",
+      "name": "Surface  Area and Volume of a Box",
+      "slug": "surface-area-and-volume-of-a-box",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2020-01-02T23:59:54.871Z"
+    },
+    {
+      "id": "5ce969ab07d4b7002dcaa7a1",
+      "name": "String prefix and suffix",
+      "slug": "string-prefix-and-suffix",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2020-01-02T23:57:25.708Z"
+    },
+    {
+      "id": "5700c9acc1555755be00027e",
+      "name": "All Inclusive?",
+      "slug": "all-inclusive",
+      "completedLanguages": [
+        "rust"
+      ],
+      "completedAt": "2020-01-02T20:17:37.240Z"
+    },
+    {
+      "id": "5a685705b3bfa870f6000024",
+      "name": "Shorten Me: Mad Mathematician's Algorithm II (Subtraction)",
+      "slug": "shorten-me-mad-mathematicians-algorithm-ii-subtraction",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2020-01-02T19:46:51.665Z"
+    },
+    {
+      "id": "59fca81a5712f9fa4700159a",
+      "name": "Convert to Binary",
+      "slug": "convert-to-binary",
+      "completedLanguages": [
+        "java"
+      ],
+      "completedAt": "2020-01-02T19:28:02.976Z"
+    },
+    {
+      "id": "54207f9677730acd490000d1",
+      "name": "Password Hashes",
+      "slug": "password-hashes",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2020-01-02T19:25:06.522Z"
+    },
+    {
+      "id": "5ce6728c939bf80029988b57",
+      "name": "Consecutive letters",
+      "slug": "consecutive-letters",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2020-01-02T19:12:50.333Z"
+    },
+    {
+      "id": "567501aec64b81e252000003",
+      "name": "Easy wallpaper",
+      "slug": "easy-wallpaper",
+      "completedLanguages": [
+        "forth"
+      ],
+      "completedAt": "2020-01-02T18:57:11.424Z"
+    },
+    {
+      "id": "5868812b15f0057e05000001",
+      "name": "Tail Swap",
+      "slug": "tail-swap",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-12-20T07:24:54.868Z"
+    },
+    {
+      "id": "58880c6e79a0a3e459000004",
+      "name": "Simple Fun #37:  House Numbers Sum",
+      "slug": "simple-fun-number-37-house-numbers-sum",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-12-19T10:39:34.550Z"
+    },
+    {
+      "id": "5d62961d18198b000e2f22b3",
+      "name": "Squad number generator",
+      "slug": "squad-number-generator",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-12-18T09:30:25.230Z"
+    },
+    {
+      "id": "55eca815d0d20962e1000106",
+      "name": "Generate range of integers",
+      "slug": "generate-range-of-integers",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-12-18T09:18:53.332Z"
+    },
+    {
+      "id": "52f3149496de55aded000410",
+      "name": "Summing  a number's digits",
+      "slug": "summing-a-numbers-digits",
+      "completedLanguages": [
+        "javascript",
+        "python",
+        "c",
+        "ruby"
+      ],
+      "completedAt": "2019-12-18T08:43:25.954Z"
+    },
+    {
+      "id": "56e6705b715e72fef0000647",
+      "name": "■□ Pattern □■ : Zoom",
+      "slug": "number-number-pattern-number-number-zoom",
+      "completedLanguages": [
+        "rust"
+      ],
+      "completedAt": "2019-12-16T05:36:46.189Z"
+    },
+    {
+      "id": "56baeae7022c16dd7400086e",
+      "name": "Phone Directory",
+      "slug": "phone-directory",
+      "completedLanguages": [
+        "rust"
+      ],
+      "completedAt": "2019-12-16T03:51:10.097Z"
+    },
+    {
+      "id": "57d2ba8095497e484e00002e",
+      "name": "Borrower Speak",
+      "slug": "borrower-speak",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-12-16T02:15:51.833Z"
+    },
+    {
+      "id": "57ebaa8f7b45ef590c00000c",
+      "name": "Numbers to Letters",
+      "slug": "numbers-to-letters",
+      "completedLanguages": [
+        "javascript",
+        "rust"
+      ],
+      "completedAt": "2019-12-14T17:34:01.679Z"
+    },
+    {
+      "id": "5d444d05ba9956002785c14a",
+      "name": "Easy Forth (or Factor)",
+      "slug": "easy-forth-or-factor",
+      "completedLanguages": [
+        "forth"
+      ],
+      "completedAt": "2019-12-14T06:44:55.994Z"
+    },
+    {
+      "id": "5933a1f8552bc2750a0000ed",
+      "name": "Get Nth Even Number",
+      "slug": "get-nth-even-number",
+      "completedLanguages": [
+        "forth"
+      ],
+      "completedAt": "2019-12-14T06:37:40.454Z"
+    },
+    {
+      "id": "57ed7214f670e99f7a000c73",
+      "name": "Ski Jump",
+      "slug": "ski-jump",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-12-14T05:57:47.213Z"
+    },
+    {
+      "id": "57e8f757085f7c7d6300009a",
+      "name": "Holiday II - Plane Seating",
+      "slug": "holiday-ii-plane-seating",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-12-14T05:44:31.118Z"
+    },
+    {
+      "id": "580a094553bd9ec5d800007d",
+      "name": "Alan Partridge II - Apple Turnover",
+      "slug": "alan-partridge-ii-apple-turnover",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-12-13T08:17:24.285Z"
+    },
+    {
+      "id": "57eaec5608fed543d6000021",
+      "name": "Divide and Conquer",
+      "slug": "divide-and-conquer",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-12-13T08:12:02.282Z"
+    },
+    {
+      "id": "57f222ce69e09c3630000212",
+      "name": "Well of Ideas - Easy Version",
+      "slug": "well-of-ideas-easy-version",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-12-13T08:09:34.124Z"
+    },
+    {
+      "id": "57eae20f5500ad98e50002c5",
+      "name": "Remove String Spaces",
+      "slug": "remove-string-spaces",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-12-13T08:05:53.085Z"
+    },
+    {
+      "id": "534ea96ebb17181947000ada",
+      "name": "Breaking chocolate problem",
+      "slug": "breaking-chocolate-problem",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-12-13T08:03:51.145Z"
+    },
+    {
+      "id": "54a6b43e478d8ee14c000a5d",
+      "name": "Java Functional Programming (Part 1: The Beginning)",
+      "slug": "java-functional-programming-part-1-the-beginning",
+      "completedLanguages": [
+        "java"
+      ],
+      "completedAt": "2019-12-10T16:08:05.284Z"
+    },
+    {
+      "id": "59f7a040a5b820c684000046",
+      "name": "class List",
+      "slug": "class-list",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-12-10T15:56:42.759Z"
+    },
+    {
+      "id": "56f69d9f9400f508fb000ba7",
+      "name": "Count the Monkeys!",
+      "slug": "count-the-monkeys",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-12-10T03:20:32.773Z"
+    },
+    {
+      "id": "57d165ad95497ea150000020",
+      "name": "Pairs of Bears",
+      "slug": "pairs-of-bears",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-12-10T03:11:23.378Z"
+    },
+    {
+      "id": "563a631f7cbbc236cf0000c2",
+      "name": "Grasshopper - Terminal game move function",
+      "slug": "grasshopper-terminal-game-move-function",
+      "completedLanguages": [
+        "forth"
+      ],
+      "completedAt": "2019-12-09T05:29:08.538Z"
+    },
+    {
+      "id": "55fd2d567d94ac3bc9000064",
+      "name": "Sum of odd numbers",
+      "slug": "sum-of-odd-numbers",
+      "completedLanguages": [
+        "python",
+        "haskell",
+        "racket",
+        "c",
+        "javascript",
+        "rust",
+        "shell",
+        "forth",
+        "clojure",
+        "cpp",
+        "factor",
+        "go",
+        "groovy",
+        "java",
+        "kotlin",
+        "ruby",
+        "vb"
+      ],
+      "completedAt": "2019-12-08T09:10:34.610Z"
+    },
+    {
+      "id": "544675c6f971f7399a000e79",
+      "name": "Convert a String to a Number!",
+      "slug": "convert-a-string-to-a-number",
+      "completedLanguages": [
+        "racket"
+      ],
+      "completedAt": "2019-12-08T08:40:10.314Z"
+    },
+    {
+      "id": "5a3fe3dde1ce0e8ed6000097",
+      "name": "Century From Year",
+      "slug": "century-from-year",
+      "completedLanguages": [
+        "racket",
+        "c"
+      ],
+      "completedAt": "2019-12-08T08:08:10.039Z"
+    },
+    {
+      "id": "55d24f55d7dd296eb9000030",
+      "name": "Grasshopper - Summation",
+      "slug": "grasshopper-summation",
+      "completedLanguages": [
+        "racket"
+      ],
+      "completedAt": "2019-12-08T08:01:45.704Z"
+    },
+    {
+      "id": "5513795bd3fafb56c200049e",
+      "name": "Count by X",
+      "slug": "count-by-x",
+      "completedLanguages": [
+        "racket"
+      ],
+      "completedAt": "2019-12-08T05:16:30.687Z"
+    },
+    {
+      "id": "5412509bd436bd33920011bc",
+      "name": "Credit Card Mask",
+      "slug": "credit-card-mask",
+      "completedLanguages": [
+        "javascript",
+        "haskell",
+        "python"
+      ],
+      "completedAt": "2019-12-07T21:02:08.510Z"
+    },
+    {
+      "id": "56f6ad906b88de513f000d96",
+      "name": "Do I get a bonus?",
+      "slug": "do-i-get-a-bonus",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2019-11-28T00:08:52.999Z"
+    },
+    {
+      "id": "57e7d21f6603f6e31f00007c",
+      "name": "The Crockford Invocation",
+      "slug": "the-crockford-invocation",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-07-24T06:03:58.928Z"
+    },
+    {
+      "id": "5601409514fc93442500010b",
+      "name": "How good are you really?",
+      "slug": "how-good-are-you-really",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-07-24T05:51:22.561Z"
+    },
+    {
+      "id": "595fb7d8de9d34743f000162",
+      "name": "Pirate treasure chest codes",
+      "slug": "pirate-treasure-chest-codes",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-06-11T03:32:39.175Z"
+    },
+    {
+      "id": "56dfce76b832927775000027",
+      "name": "Thinking & Testing : Join but not join",
+      "slug": "thinking-and-testing-join-but-not-join",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-06-10T06:52:16.178Z"
+    },
+    {
+      "id": "515decfd9dcfc23bb6000006",
+      "name": "IP Validation",
+      "slug": "ip-validation",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-06-10T05:23:08.853Z"
+    },
+    {
+      "id": "515e188a311df01cba000003",
+      "name": "Get Planet Name By ID",
+      "slug": "get-planet-name-by-id",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-06-10T05:09:40.373Z"
+    },
+    {
+      "id": "514b6c44a337752e67000077",
+      "name": "Name Your Space",
+      "slug": "name-your-space",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-06-10T05:06:39.013Z"
+    },
+    {
+      "id": "511f11d355fe575d2c000001",
+      "name": "Two Oldest Ages",
+      "slug": "two-oldest-ages-1",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-06-10T04:42:25.758Z"
+    },
+    {
+      "id": "514a677421607afc99000002",
+      "name": "getNames()",
+      "slug": "getnames",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-06-10T04:40:01.889Z"
+    },
+    {
+      "id": "514a7ac1a33775cbb500001e",
+      "name": "Return to Sanity",
+      "slug": "return-to-sanity",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-06-10T04:37:22.146Z"
+    },
+    {
+      "id": "514a3996d22ce03198000003",
+      "name": "Mr. Freeze",
+      "slug": "mr-freeze",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-06-10T04:30:45.629Z"
+    },
+    {
+      "id": "513fa1d75e4297ba38000003",
+      "name": "flatten()",
+      "slug": "flatten",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-06-10T04:24:55.416Z"
+    },
+    {
+      "id": "50ee6b0bdeab583673000025",
+      "name": "Basic variable assignment",
+      "slug": "basic-variable-assignment",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-06-10T03:53:51.334Z"
+    },
+    {
+      "id": "513e08acc600c94f01000001",
+      "name": "RGB To Hex Conversion",
+      "slug": "rgb-to-hex-conversion",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-06-10T03:47:22.789Z"
+    },
+    {
+      "id": "5274e122fc75c0943d000148",
+      "name": "Grouped by commas",
+      "slug": "grouped-by-commas",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-06-10T03:39:28.873Z"
+    },
+    {
+      "id": "5556282156230d0e5e000089",
+      "name": "DNA to RNA Conversion",
+      "slug": "dna-to-rna-conversion",
+      "completedLanguages": [
+        "rust"
+      ],
+      "completedAt": "2019-06-09T05:06:49.775Z"
+    },
+    {
+      "id": "5aa736a455f906981800360d",
+      "name": "The Feast of Many Beasts",
+      "slug": "the-feast-of-many-beasts",
+      "completedLanguages": [
+        "rust"
+      ],
+      "completedAt": "2019-06-09T04:58:00.330Z"
+    },
+    {
+      "id": "582cb0224e56e068d800003c",
+      "name": "Keep Hydrated!",
+      "slug": "keep-hydrated-1",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-06-09T04:48:11.975Z"
+    },
+    {
+      "id": "57f781872e3d8ca2a000007e",
+      "name": "Beginner - Lost Without a Map",
+      "slug": "beginner-lost-without-a-map",
+      "completedLanguages": [
+        "javascript",
+        "rust"
+      ],
+      "completedAt": "2019-06-08T18:22:25.068Z"
+    },
+    {
+      "id": "57f780909f7e8e3183000078",
+      "name": "Beginner - Reduce but Grow",
+      "slug": "beginner-reduce-but-grow",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-06-08T18:13:15.813Z"
+    },
+    {
+      "id": "54d558c72a5e542c0600060f",
+      "name": "Defuse the bombs!",
+      "slug": "defuse-the-bombs",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-06-08T06:24:25.930Z"
+    },
+    {
+      "id": "5ce9c1000bab0b001134f5af",
+      "name": "Quarter of the year",
+      "slug": "quarter-of-the-year",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-06-06T17:40:29.631Z"
+    },
+    {
+      "id": "51e056fe544cf36c410000fb",
+      "name": "Most frequently used words in a text",
+      "slug": "most-frequently-used-words-in-a-text",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-06-05T18:26:03.651Z"
+    },
+    {
+      "id": "52e88b39ffb6ac53a400022e",
+      "name": "int32 to IPv4",
+      "slug": "int32-to-ipv4",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-06-05T17:32:26.019Z"
+    },
+    {
+      "id": "5c44b0b200ce187106452139",
+      "name": "How many arguments",
+      "slug": "how-many-arguments",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-06-04T20:37:29.129Z"
+    },
+    {
+      "id": "5ce6cf94cb83dc0020da1929",
+      "name": "Uglify Word",
+      "slug": "uglify-word",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2019-06-04T20:28:48.222Z"
+    },
+    {
+      "id": "5ced0d622ad465000186f200",
+      "name": "Reverse a 32bit Signed Integer",
+      "slug": "reverse-a-32bit-signed-integer",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-06-03T20:27:27.105Z"
+    },
+    {
+      "id": "57a0515f53ba33ac5e000245",
+      "name": "Sum of list values",
+      "slug": "sum-of-list-values",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-06-03T20:14:22.507Z"
+    },
+    {
+      "id": "57eba158e8ca2c8aba0002a0",
+      "name": "Sort by Last Char",
+      "slug": "sort-by-last-char",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-06-03T20:09:36.296Z"
+    },
+    {
+      "id": "5a023c426975981341000014",
+      "name": "Third Angle of a Triangle",
+      "slug": "third-angle-of-a-triangle",
+      "completedLanguages": [
+        "javascript",
+        "rust"
+      ],
+      "completedAt": "2019-06-03T18:04:03.937Z"
+    },
+    {
+      "id": "540afbe2dc9f615d5e000425",
+      "name": "Validate Sudoku with size `NxN`",
+      "slug": "validate-sudoku-with-size-nxn",
+      "completedLanguages": [
+        "rust"
+      ],
+      "completedAt": "2019-05-26T04:50:48.581Z"
+    },
+    {
+      "id": "5935558a32fb828aad001213",
+      "name": "Multi Line Task++: Hello World",
+      "slug": "multi-line-task-plus-plus-hello-world",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-05-25T07:19:04.263Z"
+    },
+    {
+      "id": "59354ece32fb82522f000002",
+      "name": "Multi Line Task: GCD Function",
+      "slug": "multi-line-task-gcd-function",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-05-25T07:11:58.482Z"
+    },
+    {
+      "id": "593550e26d07549c5100004a",
+      "name": "Multi Line Task: Fizz Buzz",
+      "slug": "multi-line-task-fizz-buzz",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-05-25T07:00:39.200Z"
+    },
+    {
+      "id": "546f922b54af40e1e90001da",
+      "name": "Replace With Alphabet Position",
+      "slug": "replace-with-alphabet-position",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-05-25T06:18:27.687Z"
+    },
+    {
+      "id": "55bf01e5a717a0d57e0000ec",
+      "name": "Persistent Bugger.",
+      "slug": "persistent-bugger",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-05-25T05:36:43.600Z"
+    },
+    {
+      "id": "5c6cabe8ea8d326d7e216029",
+      "name": "One Line Task [Haskell]: 100 times...",
+      "slug": "one-line-task-haskell-100-times-dot-dot-dot",
+      "completedLanguages": [
+        "haskell"
+      ],
+      "completedAt": "2019-05-24T06:40:05.638Z"
+    },
+    {
+      "id": "5544c7a5cb454edb3c000047",
+      "name": "Bouncing Balls",
+      "slug": "bouncing-balls",
+      "completedLanguages": [
+        "haskell"
+      ],
+      "completedAt": "2019-05-24T05:00:45.551Z"
+    },
+    {
+      "id": "57eaeb9578748ff92a000009",
+      "name": "Sum Mixed Array",
+      "slug": "sum-mixed-array",
+      "completedLanguages": [
+        "haskell"
+      ],
+      "completedAt": "2019-05-24T04:24:06.039Z"
+    },
+    {
+      "id": "56bc28ad5bdaeb48760009b0",
+      "name": "Remove First and Last Character",
+      "slug": "remove-first-and-last-character",
+      "completedLanguages": [
+        "python",
+        "haskell",
+        "c",
+        "cpp",
+        "csharp",
+        "go",
+        "java",
+        "javascript",
+        "kotlin",
+        "racket",
+        "ruby",
+        "scala",
+        "shell",
+        "typescript",
+        "julia",
+        "elixir",
+        "php",
+        "rust"
+      ],
+      "completedAt": "2019-05-24T04:02:57.694Z"
+    },
+    {
+      "id": "5270d0d18625160ada0000e4",
+      "name": "Greed is Good",
+      "slug": "greed-is-good",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2019-05-24T03:56:47.475Z"
+    },
+    {
+      "id": "56541980fa08ab47a0000040",
+      "name": "Printer Errors",
+      "slug": "printer-errors",
+      "completedLanguages": [
+        "python",
+        "javascript"
+      ],
+      "completedAt": "2019-05-23T23:21:45.010Z"
+    },
+    {
+      "id": "563b662a59afc2b5120000c6",
+      "name": "Growth of a Population",
+      "slug": "growth-of-a-population",
+      "completedLanguages": [
+        "python",
+        "rust"
+      ],
+      "completedAt": "2019-05-23T23:17:02.616Z"
+    },
+    {
+      "id": "5467e4d82edf8bbf40000155",
+      "name": "Descending Order",
+      "slug": "descending-order",
+      "completedLanguages": [
+        "python",
+        "rust",
+        "javascript"
+      ],
+      "completedAt": "2019-05-23T22:31:55.367Z"
+    },
+    {
+      "id": "5667e8f4e3f572a8f2000039",
+      "name": "Mumbling",
+      "slug": "mumbling",
+      "completedLanguages": [
+        "python",
+        "rust",
+        "javascript"
+      ],
+      "completedAt": "2019-05-23T22:15:43.086Z"
+    },
+    {
+      "id": "5bb904724c47249b10000131",
+      "name": "Total amount of points",
+      "slug": "total-amount-of-points",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2019-05-23T21:36:06.657Z"
+    },
+    {
+      "id": "5bb904724c47249b10000131",
+      "name": "Total amount of points",
+      "slug": "total-amount-of-points",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2019-05-23T21:34:46.341Z"
+    },
+    {
+      "id": "5ce5df8dcb83dc0020d2bd8f",
+      "name": "Pickle Bucket - The Journey Begins [Chapter 1] ",
+      "slug": "pickle-bucket-the-journey-begins-chapter-1",
+      "completedLanguages": [
+        "javascript",
+        "rust"
+      ],
+      "completedAt": "2019-05-22T23:53:23.004Z"
+    },
+    {
+      "id": "5cb5d96bed8828002a24aedb",
+      "name": "Create new programming  mechanism to add numbers ",
+      "slug": "create-new-programming-mechanism-to-add-numbers",
+      "completedLanguages": [
+        "rust"
+      ],
+      "completedAt": "2019-05-22T16:51:01.361Z"
+    },
+    {
+      "id": "57d86d3d3c3f961278000005",
+      "name": "99 Problems, #1: last in list",
+      "slug": "99-problems-number-1-last-in-list",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2019-05-22T16:43:12.603Z"
+    },
+    {
+      "id": "51f2d1cafc9c0f745c00037d",
+      "name": "String ends with?",
+      "slug": "string-ends-with",
+      "completedLanguages": [
+        "rust"
+      ],
+      "completedAt": "2019-05-22T05:19:16.226Z"
+    },
+    {
+      "id": "51c8991dee245d7ddf00000e",
+      "name": "Reversed Words",
+      "slug": "reversed-words",
+      "completedLanguages": [
+        "rust"
+      ],
+      "completedAt": "2019-05-21T19:43:41.217Z"
+    },
+    {
+      "id": "5174a4c0f2769dd8b1000003",
+      "name": "Sort Numbers",
+      "slug": "sort-numbers",
+      "completedLanguages": [
+        "rust"
+      ],
+      "completedAt": "2019-05-21T19:38:41.776Z"
+    },
+    {
+      "id": "5168bb5dfe9a00b126000018",
+      "name": "Reversed Strings",
+      "slug": "reversed-strings",
+      "completedLanguages": [
+        "rust",
+        "python"
+      ],
+      "completedAt": "2019-05-21T19:34:40.076Z"
+    },
+    {
+      "id": "54ff3102c1bad923760001f3",
+      "name": "Vowel Count",
+      "slug": "vowel-count",
+      "completedLanguages": [
+        "javascript",
+        "rust",
+        "c",
+        "coffeescript",
+        "cpp",
+        "crystal",
+        "csharp",
+        "dart",
+        "elixir",
+        "go",
+        "haskell",
+        "java",
+        "julia"
+      ],
+      "completedAt": "2019-05-21T17:50:24.040Z"
+    },
+    {
+      "id": "5a03b3f6a1c9040084001765",
+      "name": "Sum of angles",
+      "slug": "sum-of-angles",
+      "completedLanguages": [
+        "rust",
+        "javascript",
+        "python",
+        "haskell"
+      ],
+      "completedAt": "2019-05-21T16:54:04.174Z"
+    },
+    {
+      "id": "5506b230a11c0aeab3000c1f",
+      "name": "Deodorant Evaporator",
+      "slug": "deodorant-evaporator",
+      "completedLanguages": [
+        "rust"
+      ],
+      "completedAt": "2019-05-20T17:51:07.995Z"
+    },
+    {
+      "id": "5506b230a11c0aeab3000c1f",
+      "name": "Deodorant Evaporator",
+      "slug": "deodorant-evaporator",
+      "completedLanguages": [
+        "rust"
+      ],
+      "completedAt": "2019-05-20T17:18:08.853Z"
+    },
+    {
+      "id": "55c6126177c9441a570000cc",
+      "name": "Weight for weight",
+      "slug": "weight-for-weight",
+      "completedLanguages": [
+        "rust"
+      ],
+      "completedAt": "2019-05-20T03:08:16.858Z"
+    },
+    {
+      "id": "550f22f4d758534c1100025a",
+      "name": "Directions Reduction",
+      "slug": "directions-reduction",
+      "completedLanguages": [
+        "rust"
+      ],
+      "completedAt": "2019-05-20T02:28:34.439Z"
+    },
+    {
+      "id": "54d81488b981293527000c8f",
+      "name": "Sum of Pairs",
+      "slug": "sum-of-pairs",
+      "completedLanguages": [
+        "rust"
+      ],
+      "completedAt": "2019-05-20T01:58:42.092Z"
+    },
+    {
+      "id": "5886d65e427c27afeb0000c1",
+      "name": "Simple Fun #23: Square Digits Sequence",
+      "slug": "simple-fun-number-23-square-digits-sequence",
+      "completedLanguages": [
+        "rust"
+      ],
+      "completedAt": "2019-05-19T08:31:59.474Z"
+    },
+    {
+      "id": "56dbe7f113c2f63570000b86",
+      "name": "Moves in squared strings (II)",
+      "slug": "moves-in-squared-strings-ii",
+      "completedLanguages": [
+        "rust"
+      ],
+      "completedAt": "2019-05-19T08:07:13.281Z"
+    },
+    {
+      "id": "58708934a44cfccca60000c4",
+      "name": "RoboScript #1 - Implement Syntax Highlighting",
+      "slug": "roboscript-number-1-implement-syntax-highlighting",
+      "completedLanguages": [
+        "rust"
+      ],
+      "completedAt": "2019-05-19T07:29:19.849Z"
+    },
+    {
+      "id": "577b9960df78c19bca00007e",
+      "name": "Find the nth Digit of a Number",
+      "slug": "find-the-nth-digit-of-a-number",
+      "completedLanguages": [
+        "rust"
+      ],
+      "completedAt": "2019-05-19T04:40:42.904Z"
+    },
+    {
+      "id": "5b077ebdaf15be5c7f000077",
+      "name": "If you can't sleep, just count sheep!!",
+      "slug": "if-you-cant-sleep-just-count-sheep",
+      "completedLanguages": [
+        "rust"
+      ],
+      "completedAt": "2019-05-19T03:41:12.905Z"
+    },
+    {
+      "id": "5ac6932b2f317b96980000ca",
+      "name": "Form The Minimum",
+      "slug": "form-the-minimum",
+      "completedLanguages": [
+        "rust"
+      ],
+      "completedAt": "2019-05-19T02:54:18.129Z"
+    },
+    {
+      "id": "54e6533c92449cc251001667",
+      "name": "Unique In Order",
+      "slug": "unique-in-order",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2019-05-17T21:21:07.610Z"
+    },
+    {
+      "id": "5656b6906de340bd1b0000ac",
+      "name": "Two to One",
+      "slug": "two-to-one",
+      "completedLanguages": [
+        "javascript",
+        "rust"
+      ],
+      "completedAt": "2019-04-24T16:32:11.099Z"
+    },
+    {
+      "id": "54147087d5c2ebe4f1000805",
+      "name": "The 'if' function",
+      "slug": "the-if-function",
+      "completedLanguages": [
+        "rust",
+        "c"
+      ],
+      "completedAt": "2019-03-10T15:41:43.566Z"
+    },
+    {
+      "id": "51f9d93b4095e0a7200001b8",
+      "name": "How many lightsabers do you own?",
+      "slug": "how-many-lightsabers-do-you-own",
+      "completedLanguages": [
+        "rust"
+      ],
+      "completedAt": "2019-03-10T15:38:49.571Z"
+    },
+    {
+      "id": "515e271a311df0350d00000f",
+      "name": "Square(n) Sum",
+      "slug": "square-n-sum",
+      "completedLanguages": [
+        "rust"
+      ],
+      "completedAt": "2019-03-10T15:32:59.280Z"
+    },
+    {
+      "id": "57ee99a16c8df7b02d00045f",
+      "name": "Flatten and sort an array",
+      "slug": "flatten-and-sort-an-array",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-12-03T03:21:16.744Z"
+    },
+    {
+      "id": "597bb84522bc93b71e00007e",
+      "name": "String Merge!",
+      "slug": "string-merge",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-11-08T14:44:07.340Z"
+    },
+    {
+      "id": "587731fda577b3d1b0001196",
+      "name": "CamelCase Method",
+      "slug": "camelcase-method",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-11-08T14:38:40.320Z"
+    },
+    {
+      "id": "5a25ac6ac5e284cfbe000111",
+      "name": "Coloured Triangles",
+      "slug": "coloured-triangles",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-11-08T14:30:48.684Z"
+    },
+    {
+      "id": "58d76854024c72c3e20000de",
+      "name": "Reverse every other word in the string",
+      "slug": "reverse-every-other-word-in-the-string",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-11-05T06:50:31.066Z"
+    },
+    {
+      "id": "56dec885c54a926dcd001095",
+      "name": "Opposite number",
+      "slug": "opposite-number",
+      "completedLanguages": [
+        "python",
+        "javascript",
+        "rust"
+      ],
+      "completedAt": "2018-11-05T06:46:31.474Z"
+    },
+    {
+      "id": "5959ec605595565f5c00002b",
+      "name": "Reverse the bits in an integer",
+      "slug": "reverse-the-bits-in-an-integer",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2018-11-05T06:34:01.506Z"
+    },
+    {
+      "id": "55dc4520094bbaf50e0000cb",
+      "name": "Wilson primes",
+      "slug": "wilson-primes",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-11-05T06:27:41.644Z"
+    },
+    {
+      "id": "57eadb7ecd143f4c9c0000a3",
+      "name": "Abbreviate a Two Word Name",
+      "slug": "abbreviate-a-two-word-name",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-31T06:47:05.157Z"
+    },
+    {
+      "id": "5265326f5fda8eb1160004c8",
+      "name": "Convert a Number to a String!",
+      "slug": "convert-a-number-to-a-string",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-31T06:35:21.958Z"
+    },
+    {
+      "id": "5592e3bd57b64d00f3000047",
+      "name": "Build a pile of Cubes",
+      "slug": "build-a-pile-of-cubes",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2018-10-25T19:18:39.318Z"
+    },
+    {
+      "id": "5bd00c99dbc73908bb00057a",
+      "name": "Alphabetical Sequence",
+      "slug": "alphabetical-sequence",
+      "completedLanguages": [
+        "javascript",
+        "python"
+      ],
+      "completedAt": "2018-10-25T00:56:50.254Z"
+    },
+    {
+      "id": "55c04b4cc56a697bb0000048",
+      "name": "Scramblies",
+      "slug": "scramblies",
+      "completedLanguages": [
+        "javascript",
+        "python",
+        "java"
+      ],
+      "completedAt": "2018-10-22T04:40:17.796Z"
+    },
+    {
+      "id": "5899dc03bc95b1bf1b0000ad",
+      "name": "Invert values",
+      "slug": "invert-values",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-22T04:29:18.347Z"
+    },
+    {
+      "id": "57e3f79c9cb119374600046b",
+      "name": "Hello, Name or World!",
+      "slug": "hello-name-or-world",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-21T04:27:19.626Z"
+    },
+    {
+      "id": "59342039eb450e39970000a6",
+      "name": "Count Odd Numbers below n",
+      "slug": "count-odd-numbers-below-n",
+      "completedLanguages": [
+        "java"
+      ],
+      "completedAt": "2018-10-18T22:15:37.618Z"
+    },
+    {
+      "id": "55685cd7ad70877c23000102",
+      "name": "Return Negative",
+      "slug": "return-negative",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2018-10-18T21:08:57.922Z"
+    },
+    {
+      "id": "546e2562b03326a88e000020",
+      "name": "Square Every Digit",
+      "slug": "square-every-digit",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2018-10-18T20:57:57.853Z"
+    },
+    {
+      "id": "57cf3dad05c186ba22000348",
+      "name": "Resistor Color Codes",
+      "slug": "resistor-color-codes",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-13T00:10:34.507Z"
+    },
+    {
+      "id": "5bbb8887484fcd36fb0020ca",
+      "name": "Plus - minus - plus - plus - ... - Count",
+      "slug": "plus-minus-plus-plus-dot-dot-dot-count",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-12T22:56:31.743Z"
+    },
+    {
+      "id": "5809b62808ad92e31b000031",
+      "name": "Basic Math (Add or Subtract)",
+      "slug": "basic-math-add-or-subtract",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-12T22:09:54.429Z"
+    },
+    {
+      "id": "56d904db9963e9cf5000037d",
+      "name": "Thinking & Testing: A and B?",
+      "slug": "thinking-and-testing-a-and-b",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-12T22:05:30.009Z"
+    },
+    {
+      "id": "5715eaedb436cf5606000381",
+      "name": "Sum of positive",
+      "slug": "sum-of-positive",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-12T20:55:08.003Z"
+    },
+    {
+      "id": "57e2dd0bec7d247e5600013a",
+      "name": "Unflatten a list (Easy)",
+      "slug": "unflatten-a-list-easy",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-12T20:50:44.871Z"
+    },
+    {
+      "id": "5bc052f93f43de7054000188",
+      "name": "Simple string matching",
+      "slug": "simple-string-matching",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-12T20:33:11.203Z"
+    },
+    {
+      "id": "58941fec8afa3618c9000184",
+      "name": "Simple Fun #74: Growing Plant",
+      "slug": "simple-fun-number-74-growing-plant",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-08T01:39:39.000Z"
+    },
+    {
+      "id": "58c8a41bedb423240a000007",
+      "name": "Simple Fun #198: Cake Slice",
+      "slug": "simple-fun-number-198-cake-slice",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-06T21:20:17.032Z"
+    },
+    {
+      "id": "5734c38da41454b7f700106e",
+      "name": "Only one",
+      "slug": "only-one",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-06T00:54:03.811Z"
+    },
+    {
+      "id": "588417e576933b0ec9000045",
+      "name": "Simple Fun #1: Seats in Theater",
+      "slug": "simple-fun-number-1-seats-in-theater",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-06T00:44:55.796Z"
+    },
+    {
+      "id": "554e4a2f232cdd87d9000038",
+      "name": "Complementary DNA",
+      "slug": "complementary-dna",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-05T06:17:04.726Z"
+    },
+    {
+      "id": "57356c55867b9b7a60000bd7",
+      "name": "Basic Mathematical Operations",
+      "slug": "basic-mathematical-operations",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-05T00:10:09.175Z"
+    },
+    {
+      "id": "5b901127d0093853470001e7",
+      "name": "Most consecutive 0's in a row [Code-golf]",
+      "slug": "most-consecutive-0-s-in-a-row-code-golf",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-02T22:54:56.840Z"
+    },
+    {
+      "id": "548ef5b7f33a646ea50000b2",
+      "name": "Character Frequency",
+      "slug": "character-frequency-2",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-02T00:21:01.713Z"
+    },
+    {
+      "id": "5630c850ed4343c1d0000083",
+      "name": "A (no more) bugs trilogy: Episode 3 - Make a  Player",
+      "slug": "a-no-more-bugs-trilogy-episode-3-make-a-player",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-02T00:15:15.056Z"
+    },
+    {
+      "id": "5630c81e8e90d20992000051",
+      "name": "A (no more) bugs trilogy: Episode 2 - An Array of Tasks",
+      "slug": "a-no-more-bugs-trilogy-episode-2-an-array-of-tasks",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-02T00:12:36.920Z"
+    },
+    {
+      "id": "562e98755e9214cd2500003d",
+      "name": "A bugs trilogy: Episode 1 - \"Let Math.Random(); decide your future\"",
+      "slug": "a-bugs-trilogy-episode-1-let-math-dot-random-decide-your-future",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-02T00:08:58.482Z"
+    },
+    {
+      "id": "568d0dd208ee69389d000016",
+      "name": "Transportation on vacation ",
+      "slug": "transportation-on-vacation",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-01T20:43:13.984Z"
+    },
+    {
+      "id": "58b8c94b7df3f116eb00005b",
+      "name": "Simple Fun #176: Reverse Letter",
+      "slug": "simple-fun-number-176-reverse-letter",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-01T20:40:00.768Z"
+    },
+    {
+      "id": "58649884a1659ed6cb000072",
+      "name": "Thinkful - Logic Drills: Traffic light",
+      "slug": "thinkful-logic-drills-traffic-light",
+      "completedLanguages": [
+        "javascript",
+        "rust"
+      ],
+      "completedAt": "2018-10-01T20:36:56.767Z"
+    },
+    {
+      "id": "5a6855c2e6be38cdbf000026",
+      "name": "Shorten Me: Mad Mathematician's Algorithm I (Addition)",
+      "slug": "shorten-me-mad-mathematicians-algorithm-i-addition",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-01T20:13:53.112Z"
+    },
+    {
+      "id": "59ca8246d751df55cc00014c",
+      "name": "Is he gonna survive?",
+      "slug": "is-he-gonna-survive",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-01T19:44:24.605Z"
+    },
+    {
+      "id": "57a0e5c372292dd76d000d7e",
+      "name": "String repeat",
+      "slug": "string-repeat",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-01T19:42:03.331Z"
+    },
+    {
+      "id": "5862f663b4e9d6f12b00003b",
+      "name": "Thinkful - Number Drills: Blue and red marbles",
+      "slug": "thinkful-number-drills-blue-and-red-marbles",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2018-10-01T19:32:05.316Z"
+    },
+    {
+      "id": "5901f361927288d961000013",
+      "name": "Product of Array Items",
+      "slug": "product-of-array-items",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-01T19:24:47.283Z"
+    },
+    {
+      "id": "5bb0c58f484fcd170700063d",
+      "name": "Pillars",
+      "slug": "pillars",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-01T19:15:49.281Z"
+    },
+    {
+      "id": "5287e858c6b5a9678200083c",
+      "name": "Does my number look big in this?",
+      "slug": "does-my-number-look-big-in-this",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-01T18:10:32.718Z"
+    },
+    {
+      "id": "52efefcbcdf57161d4000091",
+      "name": "Count characters in your string",
+      "slug": "count-characters-in-your-string",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-01T17:10:23.036Z"
+    },
+    {
+      "id": "5301329926d12b90cc000908",
+      "name": "Cumulative Triangle",
+      "slug": "cumulative-triangle",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-01T16:12:58.035Z"
+    }
+  ]
+}

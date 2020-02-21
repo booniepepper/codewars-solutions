@@ -1,0 +1,3 @@
+TODO: Paste code, update timestamp.
+
+https://www.codewars.com/kata/57eaeb9578748ff92a000009/solutions/haskell/me

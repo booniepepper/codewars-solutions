@@ -1,0 +1,805 @@
+{
+  "totalPages": 2,
+  "totalItems": 280,
+  "data": [
+    {
+      "id": "577a98a6ae28071780000989",
+      "name": "Find Maximum and Minimum Values of a List",
+      "slug": "find-maximum-and-minimum-values-of-a-list",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-01T01:35:41.324Z"
+    },
+    {
+      "id": "55b42574ff091733d900002f",
+      "name": "Friend or Foe?",
+      "slug": "friend-or-foe",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-01T00:59:29.164Z"
+    },
+    {
+      "id": "54da539698b8a2ad76000228",
+      "name": "Take a Ten Minute Walk",
+      "slug": "take-a-ten-minute-walk",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-10-01T00:54:14.775Z"
+    },
+    {
+      "id": "54dc6f5a224c26032800005c",
+      "name": "Help the bookseller !",
+      "slug": "help-the-bookseller",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-09-29T00:33:56.072Z"
+    },
+    {
+      "id": "523f5d21c841566fde000009",
+      "name": "Array.diff",
+      "slug": "array-dot-diff",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-09-29T00:10:23.134Z"
+    },
+    {
+      "id": "597770e98b4b340e5b000071",
+      "name": "extract file name",
+      "slug": "extract-file-name",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-09-29T00:08:14.810Z"
+    },
+    {
+      "id": "5779474882d7d0a10f000005",
+      "name": "Tabs to spaces",
+      "slug": "tabs-to-spaces",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-09-28T23:56:04.775Z"
+    },
+    {
+      "id": "56dbe0e313c2f63be4000b25",
+      "name": "Moves in squared strings (I)",
+      "slug": "moves-in-squared-strings-i",
+      "completedLanguages": [
+        "javascript",
+        "rust"
+      ],
+      "completedAt": "2018-09-28T23:44:20.264Z"
+    },
+    {
+      "id": "57f759bb664021a30300007d",
+      "name": "Switcheroo",
+      "slug": "switcheroo",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-09-28T23:13:25.798Z"
+    },
+    {
+      "id": "57ee24e17b45eff6d6000164",
+      "name": "Cat and Mouse - Easy Version",
+      "slug": "cat-and-mouse-easy-version",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-09-28T23:05:17.679Z"
+    },
+    {
+      "id": "585a1a227cb58d8d740001c3",
+      "name": "Thinkful - String Drills: Repeater",
+      "slug": "thinkful-string-drills-repeater",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-09-28T22:10:38.888Z"
+    },
+    {
+      "id": "56a29b237e9e997ff2000048",
+      "name": "Grasshopper - Create the rooms",
+      "slug": "grasshopper-create-the-rooms",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-09-28T21:59:54.922Z"
+    },
+    {
+      "id": "58630e2ae88af44d2b0000ea",
+      "name": "Thinkful - Number Drills: Pixelart planning",
+      "slug": "thinkful-number-drills-pixelart-planning",
+      "completedLanguages": [
+        "javascript",
+        "rust"
+      ],
+      "completedAt": "2018-09-28T21:53:22.156Z"
+    },
+    {
+      "id": "59901cd68fc658ab6c000025",
+      "name": "Distributing Candies Fairly",
+      "slug": "distributing-candies-fairly",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-09-06T20:33:10.429Z"
+    },
+    {
+      "id": "596f28fd9be8ebe6ec0000c1",
+      "name": "Wave Sorting",
+      "slug": "wave-sorting",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2018-02-08T20:52:27.794Z"
+    },
+    {
+      "id": "58bc16e271b1e4c5d3000151",
+      "name": "Lowest base system",
+      "slug": "lowest-base-system",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-12-10T08:21:09.171Z"
+    },
+    {
+      "id": "57b06f90e298a7b53d000a86",
+      "name": "The Supermarket Queue",
+      "slug": "the-supermarket-queue",
+      "completedLanguages": [
+        "java"
+      ],
+      "completedAt": "2017-12-10T06:30:41.119Z"
+    },
+    {
+      "id": "545cedaa9943f7fe7b000048",
+      "name": "Detect Pangram",
+      "slug": "detect-pangram",
+      "completedLanguages": [
+        "java"
+      ],
+      "completedAt": "2017-12-10T06:02:55.480Z"
+    },
+    {
+      "id": "58daa7617332e59593000006",
+      "name": "Most digits",
+      "slug": "most-digits",
+      "completedLanguages": [
+        "java"
+      ],
+      "completedAt": "2017-12-10T05:47:32.653Z"
+    },
+    {
+      "id": "559590633066759614000063",
+      "name": "The highest profit wins!",
+      "slug": "the-highest-profit-wins",
+      "completedLanguages": [
+        "java"
+      ],
+      "completedAt": "2017-12-10T05:42:58.136Z"
+    },
+    {
+      "id": "55a2d7ebe362935a210000b2",
+      "name": "Find the smallest integer in the array",
+      "slug": "find-the-smallest-integer-in-the-array",
+      "completedLanguages": [
+        "java"
+      ],
+      "completedAt": "2017-12-10T05:40:53.852Z"
+    },
+    {
+      "id": "56676e8fabd2d1ff3000000c",
+      "name": "A Needle in the Haystack",
+      "slug": "a-needle-in-the-haystack",
+      "completedLanguages": [
+        "java",
+        "javascript"
+      ],
+      "completedAt": "2017-12-10T05:39:33.021Z"
+    },
+    {
+      "id": "555eded1ad94b00403000071",
+      "name": "Sum of the first nth term of Series",
+      "slug": "sum-of-the-first-nth-term-of-series",
+      "completedLanguages": [
+        "java"
+      ],
+      "completedAt": "2017-12-10T05:36:09.879Z"
+    },
+    {
+      "id": "55908aad6620c066bc00002a",
+      "name": "Exes and Ohs",
+      "slug": "exes-and-ohs",
+      "completedLanguages": [
+        "java",
+        "rust",
+        "javascript"
+      ],
+      "completedAt": "2017-12-10T05:30:48.154Z"
+    },
+    {
+      "id": "58261acb22be6e2ed800003a",
+      "name": "Volume of a Cuboid",
+      "slug": "volume-of-a-cuboid",
+      "completedLanguages": [
+        "java"
+      ],
+      "completedAt": "2017-12-10T05:25:55.338Z"
+    },
+    {
+      "id": "578553c3a1b8d5c40300037c",
+      "name": "Ones and Zeros",
+      "slug": "ones-and-zeros",
+      "completedLanguages": [
+        "java"
+      ],
+      "completedAt": "2017-12-10T05:25:03.132Z"
+    },
+    {
+      "id": "5672a98bdbdd995fad00000f",
+      "name": "Rock Paper Scissors!",
+      "slug": "rock-paper-scissors",
+      "completedLanguages": [
+        "java"
+      ],
+      "completedAt": "2017-12-10T05:22:24.781Z"
+    },
+    {
+      "id": "576b93db1129fcf2200001e6",
+      "name": "Sum without highest and lowest number",
+      "slug": "sum-without-highest-and-lowest-number",
+      "completedLanguages": [
+        "java"
+      ],
+      "completedAt": "2017-12-10T05:16:16.242Z"
+    },
+    {
+      "id": "583203e6eb35d7980400002a",
+      "name": "Count the smiley faces!",
+      "slug": "count-the-smiley-faces",
+      "completedLanguages": [
+        "java"
+      ],
+      "completedAt": "2017-12-10T05:10:42.000Z"
+    },
+    {
+      "id": "5626b561280a42ecc50000d1",
+      "name": "Take a Number And Sum  Its Digits Raised To The Consecutive Powers And ....¡Eureka!!",
+      "slug": "take-a-number-and-sum-its-digits-raised-to-the-consecutive-powers-and-dot-dot-dot-eureka",
+      "completedLanguages": [
+        "java"
+      ],
+      "completedAt": "2017-12-10T05:06:46.037Z"
+    },
+    {
+      "id": "546d245dddbcbd291c00106e",
+      "name": "Algebraic Data Types",
+      "slug": "algebraic-data-types",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-12-01T23:49:16.361Z"
+    },
+    {
+      "id": "526a569ca578d7e6e300034e",
+      "name": "Base Conversion",
+      "slug": "base-conversion",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-12-01T19:23:37.290Z"
+    },
+    {
+      "id": "55dd5386575839a74f0000a9",
+      "name": "Linked Lists - Alternating Split",
+      "slug": "linked-lists-alternating-split",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-12-01T18:00:29.988Z"
+    },
+    {
+      "id": "5877e7d568909e5ff90017e6",
+      "name": "How many numbers III?",
+      "slug": "how-many-numbers-iii",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-12-01T10:12:56.529Z"
+    },
+    {
+      "id": "552ec968fcd1975e8100005a",
+      "name": "N00bify - English to n00b Translator",
+      "slug": "n00bify-english-to-n00b-translator",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-12-01T09:13:05.979Z"
+    },
+    {
+      "id": "55f89832ac9a66518f000118",
+      "name": "Simplifying multilinear polynomials",
+      "slug": "simplifying-multilinear-polynomials",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-12-01T07:08:05.967Z"
+    },
+    {
+      "id": "54746b7ab2bc2868a0000acf",
+      "name": "Mod4 Regex",
+      "slug": "mod4-regex",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-12-01T06:02:45.933Z"
+    },
+    {
+      "id": "58b38256e51f1c2af0000081",
+      "name": "Simple Fun #166: Best Match",
+      "slug": "simple-fun-number-166-best-match",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-12-01T05:37:27.997Z"
+    },
+    {
+      "id": "54d7660d2daf68c619000d95",
+      "name": "Common Denominators",
+      "slug": "common-denominators",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-12-01T05:20:15.134Z"
+    },
+    {
+      "id": "51f9d3db4095e07f130001ee",
+      "name": "Compose functions (T Combinator)",
+      "slug": "compose-functions-t-combinator",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-12-01T04:46:52.671Z"
+    },
+    {
+      "id": "52ec24228a515e620b0005ef",
+      "name": "Explosive Sum",
+      "slug": "explosive-sum",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-12-01T04:42:50.902Z"
+    },
+    {
+      "id": "53da3dbb4a5168369a0000fe",
+      "name": "Even or Odd",
+      "slug": "even-or-odd",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-11-30T23:19:05.782Z"
+    },
+    {
+      "id": "527176c487961e5900000106",
+      "name": "Concatenating functions",
+      "slug": "concatenating-functions",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-11-30T22:52:52.202Z"
+    },
+    {
+      "id": "5868b2de442e3fb2bb000119",
+      "name": "Closest and Smallest",
+      "slug": "closest-and-smallest",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-11-27T08:53:33.596Z"
+    },
+    {
+      "id": "5902bc7aba39542b4a00003d",
+      "name": "The Hunger Games - Zoo Disaster!",
+      "slug": "the-hunger-games-zoo-disaster",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-11-27T08:01:06.431Z"
+    },
+    {
+      "id": "55aa075506463dac6600010d",
+      "name": "Integers: Recreation One",
+      "slug": "integers-recreation-one",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-11-27T07:28:54.549Z"
+    },
+    {
+      "id": "54129112fb7c188740000162",
+      "name": "Prefill an Array",
+      "slug": "prefill-an-array",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-11-27T05:10:31.917Z"
+    },
+    {
+      "id": "55f2b110f61eb01779000053",
+      "name": "Beginner Series #3 Sum of Numbers",
+      "slug": "beginner-series-number-3-sum-of-numbers",
+      "completedLanguages": [
+        "python",
+        "javascript"
+      ],
+      "completedAt": "2017-11-27T04:36:10.968Z"
+    },
+    {
+      "id": "5269452810342858ec000951",
+      "name": "Coordinates Validator",
+      "slug": "coordinates-validator",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-11-27T04:15:36.835Z"
+    },
+    {
+      "id": "5263c6999e0f40dee200059d",
+      "name": "The observed PIN",
+      "slug": "the-observed-pin",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-11-27T00:41:34.489Z"
+    },
+    {
+      "id": "54d512e62a5e54c96200019e",
+      "name": "Primes in numbers",
+      "slug": "primes-in-numbers",
+      "completedLanguages": [
+        "javascript",
+        "c",
+        "clojure"
+      ],
+      "completedAt": "2017-11-26T05:11:20.639Z"
+    },
+    {
+      "id": "515bb423de843ea99400000a",
+      "name": "PaginationHelper",
+      "slug": "paginationhelper",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-11-26T04:42:31.116Z"
+    },
+    {
+      "id": "566fc12495810954b1000030",
+      "name": "Count the Digit",
+      "slug": "count-the-digit",
+      "completedLanguages": [
+        "haskell",
+        "javascript",
+        "rust"
+      ],
+      "completedAt": "2017-11-22T13:21:09.697Z"
+    },
+    {
+      "id": "55466989aeecab5aac00003e",
+      "name": "Rectangle into Squares",
+      "slug": "rectangle-into-squares",
+      "completedLanguages": [
+        "haskell"
+      ],
+      "completedAt": "2017-11-22T13:10:43.022Z"
+    },
+    {
+      "id": "5552101f47fc5178b1000050",
+      "name": "Playing with digits",
+      "slug": "playing-with-digits",
+      "completedLanguages": [
+        "haskell",
+        "javascript"
+      ],
+      "completedAt": "2017-11-22T12:53:40.992Z"
+    },
+    {
+      "id": "514b92a657cdc65150000006",
+      "name": "Multiples of 3 or 5",
+      "slug": "multiples-of-3-or-5",
+      "completedLanguages": [
+        "javascript",
+        "haskell",
+        "python",
+        "java",
+        "rust",
+        "c",
+        "clojure",
+        "coffeescript",
+        "cpp",
+        "crystal",
+        "csharp",
+        "dart",
+        "elixir",
+        "factor",
+        "fsharp",
+        "go",
+        "julia",
+        "kotlin",
+        "lua"
+      ],
+      "completedAt": "2017-11-22T12:13:01.443Z"
+    },
+    {
+      "id": "5503013e34137eeeaa001648",
+      "name": "Give me a Diamond",
+      "slug": "give-me-a-diamond",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-11-22T12:02:06.279Z"
+    },
+    {
+      "id": "552c028c030765286c00007d",
+      "name": "IQ Test",
+      "slug": "iq-test",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-11-22T11:31:45.269Z"
+    },
+    {
+      "id": "54b724efac3d5402db00065e",
+      "name": "Decode the Morse code ",
+      "slug": "decode-the-morse-code",
+      "completedLanguages": [
+        "javascript",
+        "rust"
+      ],
+      "completedAt": "2017-11-22T11:22:38.632Z"
+    },
+    {
+      "id": "5264d2b162488dc400000001",
+      "name": "Stop gninnipS My sdroW!",
+      "slug": "stop-gninnips-my-sdrow",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-11-22T11:16:24.045Z"
+    },
+    {
+      "id": "52774a314c2333f0a7000688",
+      "name": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-11-22T11:11:47.810Z"
+    },
+    {
+      "id": "525f3eda17c7cd9f9e000b39",
+      "name": "Calculating with Functions",
+      "slug": "calculating-with-functions",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-11-22T11:05:55.741Z"
+    },
+    {
+      "id": "5679aa472b8f57fb8c000047",
+      "name": "Equal Sides Of An Array",
+      "slug": "equal-sides-of-an-array",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-11-22T10:43:40.726Z"
+    },
+    {
+      "id": "53368a47e38700bd8300030d",
+      "name": "Format a string of names like 'Bart, Lisa & Maggie'.",
+      "slug": "format-a-string-of-names-like-bart-lisa-and-maggie",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-11-22T10:35:29.058Z"
+    },
+    {
+      "id": "54b42f9314d9229fd6000d9c",
+      "name": "Duplicate Encoder",
+      "slug": "duplicate-encoder",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-11-22T10:17:31.741Z"
+    },
+    {
+      "id": "57cebe1dc6fdc20c57000ac9",
+      "name": "Shortest Word",
+      "slug": "shortest-word",
+      "completedLanguages": [
+        "javascript",
+        "c"
+      ],
+      "completedAt": "2017-11-22T10:03:41.080Z"
+    },
+    {
+      "id": "55f8a9c06c018a0d6e000132",
+      "name": "Regex validate PIN code",
+      "slug": "regex-validate-pin-code",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-11-22T10:00:47.182Z"
+    },
+    {
+      "id": "5390bac347d09b7da40006f6",
+      "name": "Jaden Casing Strings",
+      "slug": "jaden-casing-strings",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-11-22T09:54:15.411Z"
+    },
+    {
+      "id": "551dc350bf4e526099000ae5",
+      "name": "Dubstep",
+      "slug": "dubstep",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-11-22T09:38:36.439Z"
+    },
+    {
+      "id": "563cf89eb4747c5fb100001b",
+      "name": "Remove the minimum",
+      "slug": "remove-the-minimum",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-11-22T09:31:37.536Z"
+    },
+    {
+      "id": "526571aae218b8ee490006f4",
+      "name": "Bit Counting",
+      "slug": "bit-counting",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-11-22T09:15:26.178Z"
+    },
+    {
+      "id": "56747fd5cb988479af000028",
+      "name": "Get the Middle Character",
+      "slug": "get-the-middle-character",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-11-22T09:06:27.080Z"
+    },
+    {
+      "id": "551f37452ff852b7bd000139",
+      "name": "Binary Addition",
+      "slug": "binary-addition",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-11-22T09:00:06.788Z"
+    },
+    {
+      "id": "554b4ac871d6813a03000035",
+      "name": "Highest and Lowest",
+      "slug": "highest-and-lowest",
+      "completedLanguages": [
+        "javascript",
+        "rust"
+      ],
+      "completedAt": "2017-11-22T00:58:09.027Z"
+    },
+    {
+      "id": "52fba66badcd10859f00097e",
+      "name": "Disemvowel Trolls",
+      "slug": "disemvowel-trolls",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-11-22T00:53:47.099Z"
+    },
+    {
+      "id": "54bf1c2cd5b56cc47f0007a1",
+      "name": "Counting Duplicates",
+      "slug": "counting-duplicates",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-11-22T00:52:30.467Z"
+    },
+    {
+      "id": "54ba84be607a92aa900000f1",
+      "name": "Isograms",
+      "slug": "isograms",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-11-22T00:37:32.465Z"
+    },
+    {
+      "id": "5266876b8f4bf2da9b000362",
+      "name": "Who likes it?",
+      "slug": "who-likes-it",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-11-22T00:19:24.399Z"
+    },
+    {
+      "id": "56606694ec01347ce800001b",
+      "name": "Is this a triangle?",
+      "slug": "is-this-a-triangle",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2017-11-22T00:12:45.438Z"
+    },
+    {
+      "id": "50654ddff44f800200000004",
+      "name": "Multiply",
+      "slug": "multiply",
+      "completedLanguages": [
+        "javascript",
+        "python",
+        "rust",
+        "c",
+        "agda",
+        "bf",
+        "cfml",
+        "coq",
+        "clojure",
+        "coffeescript",
+        "cpp",
+        "crystal",
+        "csharp",
+        "dart",
+        "elixir",
+        "elm",
+        "erlang",
+        "factor",
+        "forth",
+        "fortran",
+        "fsharp",
+        "go",
+        "groovy",
+        "haskell",
+        "idris",
+        "java",
+        "julia",
+        "kotlin",
+        "lua",
+        "nasm",
+        "nim",
+        "objc",
+        "ocaml",
+        "php",
+        "powershell",
+        "prolog",
+        "purescript",
+        "r",
+        "racket",
+        "reason",
+        "ruby",
+        "scala",
+        "shell",
+        "solidity",
+        "sql",
+        "swift",
+        "typescript",
+        "vb"
+      ],
+      "completedAt": "2017-11-21T23:52:12.262Z"
+    }
+  ]
+}

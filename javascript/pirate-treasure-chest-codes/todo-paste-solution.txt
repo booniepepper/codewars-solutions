@@ -1,0 +1,3 @@
+TODO: Paste code, update timestamp.
+
+https://www.codewars.com/kata/595fb7d8de9d34743f000162/solutions/javascript/me
