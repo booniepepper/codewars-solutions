@@ -1,3 +1,0 @@
-TODO: Paste code, update timestamp.
-
-https://www.codewars.com/kata/5ac6932b2f317b96980000ca/solutions/rust/me
