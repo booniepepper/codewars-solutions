@@ -1,3 +1,0 @@
-TODO: Paste code, update timestamp.
-
-https://www.codewars.com/kata/5959ec605595565f5c00002b/solutions/python/me
