@@ -1,4 +1,4 @@
-# hiljusti's codewars-solutions
+# some of my codewars solutions
 
 Solutions for problems on codewars.com. May contain code golf, experimental hacking, and general mayhem.
 
@@ -8,4 +8,7 @@ May also contain some hidden gems here and there?
 
 # me
 
-Here I am: https://www.codewars.com/users/hiljusti
+Here I am: 
+
+* https://www.codewars.com/users/booniepepper
+
